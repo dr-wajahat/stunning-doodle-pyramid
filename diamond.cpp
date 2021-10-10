@@ -49,7 +49,8 @@ int rows;
 }
 
 int main (){
-	
+
+	printDiamond();
   
 	return 0; 
 }
