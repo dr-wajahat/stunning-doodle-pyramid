@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// this code actually print a Diamond in command line
 int main (){
 	int rows;
   
