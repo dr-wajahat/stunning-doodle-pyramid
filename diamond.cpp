@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
+
 // this code actually print a Diamond in command line
-int main (){
-	int rows;
+
+void printDiamond(){
+int rows;
   
 	int temp;
   
@@ -44,6 +46,10 @@ int main (){
 	cout << "\n";
 	row--;
 	}
+}
+
+int main (){
+	
   
 	return 0; 
 }
